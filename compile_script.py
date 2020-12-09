@@ -157,11 +157,11 @@ with open('log.txt', 'w') as f:
 
     #subprocess.run(["dir"], shell=True, stdout=f, text=True)    
 
-    #create_dir()
+    create_dir()
 
-    #compile_dir()
+    compile_dir()
     
-    #test_dir()
+    test_dir()
 
     fuzz_lean_dir()
 
